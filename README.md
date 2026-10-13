@@ -1,72 +1,45 @@
 <div align="center">
 
 # Ronaldo Maldonado
+**Data Engineer · Databricks Certified Data Engineer Associate**
 
-### Data Engineer · Databricks Certified Data Engineer Associate
+Building reliable data pipelines, data warehouses and analytics-ready datasets.
 
-Building reliable data pipelines, data warehouses, and analytics-ready data products.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dinhomald-181717?style=flat-square&logo=github)](https://github.com/Dinhomald)
-[![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/learn/certification/data-engineer-associate)
+[![Databricks Certified](https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/learn/certification/data-engineer-associate)
 
 </div>
 
-## About
+### 👨‍💻 About me
 
-I'm a data engineer working on enterprise data warehouse development, pipeline orchestration, analytical modeling, and data quality. I enjoy turning complex data workflows into systems that are easier to operate, validate, and extend.
+Data Engineer working with **data warehouses, orchestration and data quality** in production. Building cloud-native projects with **Azure and Databricks**.
 
-My professional experience is primarily in on-premises data engineering, while I develop Azure and Databricks projects to deepen my cloud-native engineering skills.
+- ⚡ Reduced a data load cycle from **~33 min to ~4 min** with Airflow.
+- 🔄 Implemented incremental processing across **204 tables**.
 
-## Engineering impact
-
-- **~33 min → ~4 min:** improved a data load cycle by migrating serial workflows to parallel, layer-based orchestration with Apache Airflow.
-- **204 tables:** implemented incremental processing to replace full reloads in the data warehouse.
-- **~180 hours/month:** reduced manual reporting and data-related operational work through data warehouse, BI, and automation initiatives.
-- **Data reliability:** investigated and corrected silent data-loss risks in watermark logic and historical joins involving SCD Type 2 dimensions.
-
-## Technologies
-
-| Area | Tools & concepts |
-| --- | --- |
-| Languages | Python, SQL, PL/SQL, PySpark |
-| Data pipelines | Apache Airflow, Pentaho, ETL/ELT, APIs |
-| Processing & lakehouse | Apache Spark, Databricks, Delta Lake |
-| Storage & databases | Oracle, PostgreSQL, SQL Server, ADLS Gen2 |
-| Cloud & analytics | Azure Data Factory, Power BI |
-| Modeling & reliability | Dimensional modeling, Kimball, Medallion architecture, SCD2, incremental loads, data quality |
-
-## Featured projects
-
-### [Olist E-commerce Lakehouse](https://github.com/Dinhomald/olist-ecommerce-lakehouse)
-
-An end-to-end Azure data engineering project using a custom API, Azure Data Factory, ADLS Gen2, Databricks and Unity Catalog.
-
-- **Bronze → Silver → Gold → Publish**, with explicit modeling and consumption layers.
-- Delta tables and dimensional modeling for analytical workloads.
-- Documented engineering trade-offs, data validation, and an SCD2 example.
-
-[Explore architecture and implementation →](https://github.com/Dinhomald/olist-ecommerce-lakehouse#readme)
-
-### [Uber Central Databricks Pipeline](https://github.com/Dinhomald/uber_central_databricks_pipeline)
-
-A separate repository in my data engineering portfolio. See the project documentation for its implementation details.
-
-[Explore repository →](https://github.com/Dinhomald/uber_central_databricks_pipeline)
-
-### [Retail Tax Intelligence Pipeline](https://github.com/Dinhomald/retail-tax-intelligence-pipeline)
-
-An evolving data pipeline project focused on the retail and tax domain.
-
-[Explore repository →](https://github.com/Dinhomald/retail-tax-intelligence-pipeline)
-
-## Certification
-
-- **Databricks Certified Data Engineer Associate** (2026)
-
----
+### 🛠️ Technologies
 
 <div align="center">
 
-*Interested in data platform engineering, thoughtful architecture decisions, and reliable analytics.*
+[![Core tools](https://skillicons.dev/icons?i=python,azure,postgres,docker,git&theme=dark)](https://skillicons.dev)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
+
+</div>
+
+### 📂 Featured projects
+
+- 🏗️ **[Olist E-commerce Lakehouse](https://github.com/Dinhomald/olist-ecommerce-lakehouse)** — Azure + Databricks, Bronze → Silver → Gold → Publish.
+- 🚕 **[Uber Central Databricks Pipeline](https://github.com/Dinhomald/uber_central_databricks_pipeline)** — Databricks data pipeline project.
+- 🧾 **[Retail Tax Intelligence Pipeline](https://github.com/Dinhomald/retail-tax-intelligence-pipeline)** — Retail and tax data pipeline project.
+
+<div align="center">
+
+### 📈 GitHub activity
+
+[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Dinhomald&theme=github-compact&hide_border=true)](https://github.com/Dinhomald)
 
 </div>
